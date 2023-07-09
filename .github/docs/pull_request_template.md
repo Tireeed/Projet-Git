@@ -10,7 +10,7 @@
 ## Tests effectués
 [Expliquez les tests que vous avez effectués pour vérifier les modifications]
 
-## Captures d'écran (si applicable)
+## Captures d'écran (si possible]
 [Ajoutez des captures d'écran illustrant les changements effectués si cela est pertinent]
 
 ## Checklist
